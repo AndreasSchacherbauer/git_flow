@@ -8,3 +8,4 @@
 
 echo "hello git flow"
 echo "hotfix"
+echo "release 1_0"
