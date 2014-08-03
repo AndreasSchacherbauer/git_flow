@@ -7,3 +7,4 @@
 #
 
 echo "hello git flow"
+echo "hotfix"
